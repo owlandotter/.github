@@ -4,5 +4,5 @@ contact_links:
     url: https://github.com/owlandotter/.github/security/advisories/new
     about: Report it privately here. Please don't open a public issue.
   - name: Get support
-    url: mailto:support@owlandotter.app
-    about: Questions about the product, your account or billing.
+    url: https://owlandotter.app/contact
+    about: Questions about the product, your account or billing. Email support@owlandotter.app.
